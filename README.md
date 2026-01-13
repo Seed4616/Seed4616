@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seed4616&label=Profile%20views&color=0e75b6&style=flat" alt="seed4616" /> </p>
 
-- 🔭 I’m currently working on **my portfolio and another school project.**
+- 🔭 I’m currently working on **my portfolio and searching for a job.**
 
 - 🌱 I’m currently learning **React.js, Angular.js, Express.js**
 
-- 📫 How to reach me **victor.zhang@epitech.eu**
+- 📫 How to reach me **vzhang2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
